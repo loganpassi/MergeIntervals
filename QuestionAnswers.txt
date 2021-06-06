@@ -1,0 +1,6 @@
+• Explain what runtime complexity your algorithm has.
+	O(nLogn) to sort the intervals and O(n) to merge the intervals
+	O(nLogn) + O(n) = O(nLogn)
+
+• Is it possible to improve upon it? If so, how?
+	No
